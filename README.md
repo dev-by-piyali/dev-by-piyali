@@ -6,25 +6,17 @@
 
 ---
 
-## 🌟 About Me  
+## About Me  
 - Building thoughtful, modern, user-friendly interfaces, and organized chaos!
 - Love mixing tech with creativity — drawn to clean layouts, smooth interactions and designs that feels effortless!
 
 ---
 
-## 💻 Tech Stack I Enjoy  
+## Tech Stack I Enjoy  
 `JavaScript` · `TypeScript` · `Vue.js` · `ReactJS` · `Redux` · `Pinia` · `HTML` · `CSS`
 
 ---
 
-## 📚 Currently Exploring  
-- Frontend architecture
-- Clean and reusable UI components
-- Reusable component libraries
-- Aesthetic UI animations & micro-interactions  
-
----
-
 <p align="center">
-  <i> Thanks for stopping by ♡  More fun projects, UI ideas & code experiments coming soon.</i>
+  <i> Thanks for stopping by ♡ </i>
 </p>
